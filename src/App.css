@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url(./assets/images/pexels-johannes-plenio-1165991.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec207cf6.css",
+    "main.js": "/static/js/main.298d6115.js",
+    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
+    "static/media/pexels-johannes-plenio-1165991.jpg": "/static/media/pexels-johannes-plenio-1165991.1366ddb07802d4281666.jpg",
+    "static/media/icon.png": "/static/media/icon.f8d95029d62a1fc381c9.png",
+    "index.html": "/index.html",
+    "main.ec207cf6.css.map": "/static/css/main.ec207cf6.css.map",
+    "main.298d6115.js.map": "/static/js/main.298d6115.js.map",
+    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec207cf6.css",
+    "static/js/main.298d6115.js"
+  ]
+}
